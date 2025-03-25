@@ -1,13 +1,11 @@
-/* rafting.css */
-
 :root {
-    /* Color Variables (Replace with your chosen colors) */
-    --primary-color: #53d28a; /* Example: Sea Green */
-    --secondary-color: #F08080; /* Example: Light Coral */
-    --accent1-color: #F5F5DC; /* Example: Beige */
-    --accent2-color: #4682B4; /* Example: Steel Blue */
+    
+    --primary-color: #53d28a; 
+    --secondary-color: #F08080;
+    --accent1-color: #F5F5DC; 
+    --accent2-color: #4682B4;
 
-    /* Font Variables (You can define them here if you want, though they are often used in the body) */
+  
     --heading-font: "Montserrat", sans-serif;
     --text-font: "Open Sans", sans-serif;
 }
@@ -15,7 +13,8 @@
 body {
     font-family: var(--text-font);
     background-color: var(--accent1-color);
-    color: #333; /* Default text color */
+    color: #333; 
+    
     margin: 0;
     padding: 0;
     box-sizing: border-box;
